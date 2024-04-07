@@ -1,8 +1,9 @@
-title: Nuxt UI Pro - Landing template
+title: Store
 description: Nuxt UI Pro is a collection of premium Vue components built on top of Nuxt UI to create beautiful & responsive Nuxt applications in minutes.
 hero:
-  title: Build your landing in seconds
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt.
+  title: Treat yourself to 10% off.
+  subtitle: "Discover amazing deals on our wide range of products"
+  cta: "Show Deals"
   headline:
     label: Made with Nuxt UI Pro
     to: https://ui.nuxt.com/pro
@@ -11,7 +12,7 @@ hero:
     - label: Get started
       icon: i-heroicons-arrow-right-20-solid
       trailing: true
-      to: '#features'
+      to: "#features"
       size: xl
     - label: Use this template
       icon: i-simple-icons-github
