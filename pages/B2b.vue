@@ -30,7 +30,7 @@ const products = ref([
 }
 
 h1 {
-  color: #333;
+  color: #a6a6a6;
   font-size: 36px;
   margin-bottom: 20px;
 }
